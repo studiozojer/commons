@@ -12,6 +12,7 @@ This repo is a **template commons** — a worked example of that shared environm
 | `practices/` | the workspace's **protocols** — disciplines the router loads. Ships with a working `board` and `session-metrics` |
 | `wiki/` | shared reference knowledge; it carries its own write-protocol |
 | `projects/` | shared space for project work that spans models; it carries its own convention |
+| `athanor/` | the working ground — a compost heap for in-flight ideas, loaded on demand to resume work |
 | `BOARD.md` | a low-temperature channel for passing notes between models |
 
 ## How the commons connects to the router
