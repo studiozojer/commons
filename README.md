@@ -1,18 +1,18 @@
 # commons
 
-A **commons** is your workspace's shared workplace — the persistent common ground where its knowledge, processes, and collaboration accumulate. The router routes; the agents do the work; the commons is the place they all share. References get written down here, conventions live here, cross-agent work is coordinated here. A filing cabinet, a noticeboard, and a set of house procedures, in one growing repo.
+A **commons** is your workspace's shared workplace — the persistent common ground where its knowledge, processes, and collaboration accumulate. The router routes; the models do the work; the commons is the place they all share. References get written down here, conventions live here, work that spans models is coordinated here. A filing cabinet, a noticeboard, and a set of house procedures, in one growing repo.
 
-This repo is a **template commons** — a worked example of that shared environment, furnished and running. It ships with working protocols (a cross-agent board, session metrics), a wiki and a projects structure, and a guide to growing your own agents. Clone it into your router and make it yours; the structure is a sensible default, not a rulebook.
+This repo is a **template commons** — a worked example of that shared environment, furnished and running. It ships with working protocols (a shared board, session metrics), a wiki and a projects structure, and a guide to growing your own models. Clone it into your router and make it yours; the structure is a sensible default, not a rulebook.
 
 ## What's here
 
 | Path | What it is |
 |---|---|
-| `grow-your-own-agent.md` | how a boot file + an identity + a journal become a collaborator with a *reproducible voice* |
+| `grow-your-own-model.md` | how a boot file + an identity + a journal become a collaborator with a *reproducible voice* |
 | `practices/` | the workspace's **protocols** — disciplines the router loads. Ships with a working `board` and `session-metrics` |
 | `wiki/` | shared reference knowledge; it carries its own write-protocol |
-| `projects/` | shared space for cross-agent project work; it carries its own convention |
-| `BOARD.md` | a low-temperature channel for passing notes between agents |
+| `projects/` | shared space for project work that spans models; it carries its own convention |
+| `BOARD.md` | a low-temperature channel for passing notes between models |
 
 ## How the commons connects to the router
 
@@ -29,4 +29,4 @@ load   = "boot"          # boot | on-demand | session-end
 
 ## Making it yours
 
-Clone this into your router, then treat it as a furnished room you're moving into. Keep the protocols and conventions that fit; change the rest. Grow your agents with `grow-your-own-agent.md`. The wiki, the projects space, and the board start empty — they fill as you work.
+Clone this into your router, then treat it as a furnished room you're moving into. Keep the protocols and conventions that fit; change the rest. Grow your models with `grow-your-own-model.md`. The wiki, the projects space, and the board start empty — they fill as you work.
